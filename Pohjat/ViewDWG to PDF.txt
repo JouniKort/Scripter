@@ -1,0 +1,27 @@
+Filedia 1
+@AloitusLoppu
+_.open @Polku
+@ViewAloitusLoppu
+-plot
+y
+Model
+DWG to PDF.pc3
+ISO @Paperi @Mitat
+m
+@Orientaatio
+No
+View
+@ViewNimi@ViewNumero
+F
+C
+y
+@Väri
+Y
+A
+@Tiedostosijainti\@Nimi@View.pdf
+N
+Y
+@KeskiosaLoppu
+_.Close _y
+@ViewLopetusLoppu
+quit

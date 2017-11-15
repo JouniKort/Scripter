@@ -1,0 +1,23 @@
+Filedia 1
+@AloitusLoppu
+open "@Polku"
+-plot
+y
+Model
+@Tulostin
+@Paperi
+m
+@Orientaatio
+No
+@Alue
+F
+C
+Y
+@Väri
+Y
+A
+
+N
+Y
+_.close _y
+@KeskiosaLoppu

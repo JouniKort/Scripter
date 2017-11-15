@@ -1,0 +1,16 @@
+testi
+@AloitusLoppu
+@Ensimm‰inenNimi
+@Ensimm‰inenP‰‰te
+@Nimi.@P‰‰te
+@Polku
+@Orientaatio
+@Alue
+@Paperi
+@Mitat
+@Tulostin
+@V‰ri
+@Tiedostosijainti
+------------------------------
+@KeskiosaLoppu
+testi

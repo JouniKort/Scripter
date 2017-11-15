@@ -1,0 +1,28 @@
+Filedia 1
+;Vaihda Plottermanagerista;
+;DWG To PDF.pc3;
+;Device and Document Settings;
+;Custom Properties;
+;Open in PDF viewer when done;
+@AloitusLoppu
+open @Polku
+-plot
+y
+Model
+DWG to PDF.pc3
+ISO @Paperi @Mitat
+m
+@Orientaatio
+No
+@Alue
+F
+C
+Y
+@Väri
+Y
+A
+
+N
+Y
+_.close _y
+@KeskiosaLoppu

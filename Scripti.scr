@@ -1,0 +1,30 @@
+_.Open G:\VS\VisualStudio Projektit\Projektit\AutoCADOsoite\Jouni Kortelainen.dwg
+Filedia 0
+-purge
+all
+*
+n
+zoom
+all
+qsave
+_.Close
+_.Open G:\VS\VisualStudio Projektit\Projektit\AutoCADOsoite\Matti Meikäläinen.dwg
+Filedia 0
+-purge
+all
+*
+n
+zoom
+all
+qsave
+_.Close
+_.Open G:\VS\VisualStudio Projektit\Projektit\AutoCADOsoite\Testi.dwg
+Filedia 0
+-purge
+all
+*
+n
+zoom
+all
+qsave
+_.Close

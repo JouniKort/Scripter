@@ -1,0 +1,6 @@
+Tulostin CutePDF Writer
+Paperi A4
+Orientaatio Landscape
+Alue Extents
+Vari monochrome.ctb
+PageSetup MustaValko.dwg

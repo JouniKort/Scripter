@@ -1,0 +1,19 @@
+Filedia 1
+@AloitusLoppu
+_.Open "@Polku"
+-ATTEDIT
+Y
+@Blockit
+@Tagit
+*
+W
+0,0
+400,400
+V
+R
+@Tiedot
+N
+qsave
+quit
+N
+_.Close _y
